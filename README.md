@@ -1,16 +1,34 @@
-# numbersystem
+# NUMBER SYSTEM CONVERSION APP
 
-A new Flutter project.
+## Descriptions:
+It is the mathematical number system conversion app .The code can be run on both andoird and IOS.This app also uses some useful packages.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+### Packages Used:
+- import 'package:units_converter/units_converter.dart';
+- import 'package:units_converter/properties/numeral_systems.dart';
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+####  Widgets Used:
+- Row
+- AppBar
+- Scaffold
+- Column
+- Container
+- Bottom Navigation Bar
+- ListTile
+- Card
+- CircleAvatar
+- ListView/ListView.builder
+- GridView/GridView.builder
+- TabBar View
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+###### OUTPUT
+
+
+https://user-images.githubusercontent.com/82046769/230381460-ec0bb126-8e68-4e11-abc3-98fd74e85052.mp4
+
+
+
